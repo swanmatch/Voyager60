@@ -6,4 +6,7 @@
   (lib (name ai03-locallib)(type Legacy)(uri ${KIPRJMOD}/locallib.pretty/schema/ai03-locallib.lib)(options "")(descr ""))
   (lib (name ws2812b)(type Legacy)(uri ${KIPRJMOD}/WS2812B.pretty/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
   (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name PEL12T-4226F-S1024)(type Legacy)(uri ${KIPRJMOD}/PEL12T-4226F-S1024.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/foostan/library/kbd.lib)(options "")(descr ""))
+  (lib (name ts9-rescue)(type Legacy)(uri ${KIPRJMOD}/ts9-rescue.lib)(options "")(descr ""))
 )

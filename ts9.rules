@@ -1,0 +1,116 @@
+
+(rules PCB ts9
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 11196)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.8)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.5)
+    )
+  )
+  (rule
+    (width 254.0)
+    (clear 203.4)
+    (clear 127.0 (type smd_to_turn_gap))
+    (clear 50.8 (type smd_smd))
+  )
+  (padstack "Via[0-1]_600:400_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_600:400_um" "Via[0-1]_600:400_um" default
+  )
+  (via 
+    "Via[0-1]_600:400_um-kicad_default" "Via[0-1]_600:400_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_600:400_um-Power" "Via[0-1]_600:400_um" Power
+  )
+  (via 
+    "Via[0-1]_600:400_um-PowerTMP" "Via[0-1]_600:400_um" PowerTMP
+  )
+  (via_rule
+    default "Via[0-1]_600:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_600:400_um-kicad_default"
+  )
+  (via_rule
+    Power "Via[0-1]_600:400_um-Power"
+  )
+  (via_rule
+    PowerTMP "Via[0-1]_600:400_um-PowerTMP"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 254.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    "Net-(D5-Pad2)" "Net-(D6-Pad2)" "Net-(D7-Pad2)" "Net-(D8-Pad2)" "Net-(D9-Pad2)" "Net-(D10-Pad2)" "Net-(D16-Pad2)" ROW1
+    ROW2 ROW3 COL1 COL2 COL3 "D-" D+ "Net-(C1-Pad1)"
+    "Net-(C2-Pad1)" "Net-(C3-Pad1)" "Net-(D1-Pad1)" "Net-(D15-Pad2)" SDA SCL "Net-(R2-Pad2)" "Net-(R3-Pad2)"
+    "Net-(R4-Pad2)" "Net-(R5-Pad2)" "Net-(R6-Pad2)" RESET RE1B RE1A RE1S RE2S
+    RE2A RE2B RE3S RE3A RE3B AUIN "Net-(C10-Pad1)" "Net-(C11-Pad1)"
+    LEDB1 LEDB5 LEDB6 LEDB4 LEDA4 LEDA6 LEDA5 LEDA1
+    LEDA2 LEDA7 LEDA9 LEDA8 "Net-(D14-Pad1)" "Net-(D17-Pad2)" LEDA3 AUFLG
+    SDB "Net-(R8-Pad2)" AUOUT LEDB2 LEDB3
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 254.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class Power
+    +5V GND VCC
+    (clearance_class Power)
+    (via_rule Power)
+    (rule
+      (width 381.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class PowerTMP
+    (clearance_class PowerTMP)
+    (via_rule PowerTMP)
+    (rule
+      (width 254.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
