@@ -597,100 +597,100 @@ SCL
 $Comp
 L Switch:SW_Push SW1
 U 1 1 5E149513
-P 8800 8175
-F 0 "SW1" H 8800 8460 50  0000 C CNN
-F 1 "SW_Push" H 8800 8369 50  0000 C CNN
-F 2 "kbd:PG1350" H 8800 8375 50  0001 C CNN
-F 3 "" H 8800 8375 50  0001 C CNN
-	1    8800 8175
+P 5925 5525
+F 0 "SW1" H 5925 5810 50  0000 C CNN
+F 1 "SW_Push" H 5925 5719 50  0000 C CNN
+F 2 "kbd:PG1350" H 5925 5725 50  0001 C CNN
+F 3 "" H 5925 5725 50  0001 C CNN
+	1    5925 5525
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW2
 U 1 1 5E14967B
-P 9400 8175
-F 0 "SW2" H 9400 8460 50  0000 C CNN
-F 1 "SW_Push" H 9400 8369 50  0000 C CNN
-F 2 "kbd:PG1350" H 9400 8375 50  0001 C CNN
-F 3 "" H 9400 8375 50  0001 C CNN
-	1    9400 8175
+P 6525 5525
+F 0 "SW2" H 6525 5810 50  0000 C CNN
+F 1 "SW_Push" H 6525 5719 50  0000 C CNN
+F 2 "kbd:PG1350" H 6525 5725 50  0001 C CNN
+F 3 "" H 6525 5725 50  0001 C CNN
+	1    6525 5525
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW3
 U 1 1 5E14EC38
-P 10000 8175
-F 0 "SW3" H 10000 8460 50  0000 C CNN
-F 1 "SW_Push" H 10000 8369 50  0000 C CNN
-F 2 "kbd:PG1350" H 10000 8375 50  0001 C CNN
-F 3 "" H 10000 8375 50  0001 C CNN
-	1    10000 8175
+P 7125 5525
+F 0 "SW3" H 7125 5810 50  0000 C CNN
+F 1 "SW_Push" H 7125 5719 50  0000 C CNN
+F 2 "kbd:PG1350" H 7125 5725 50  0001 C CNN
+F 3 "" H 7125 5725 50  0001 C CNN
+	1    7125 5525
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW4
 U 1 1 5E1598EA
-P 8800 8875
-F 0 "SW4" H 8800 9160 50  0000 C CNN
-F 1 "SW_Push" H 8800 9069 50  0000 C CNN
-F 2 "kbd:PG1350" H 8800 9075 50  0001 C CNN
-F 3 "" H 8800 9075 50  0001 C CNN
-	1    8800 8875
+P 5925 6225
+F 0 "SW4" H 5925 6510 50  0000 C CNN
+F 1 "SW_Push" H 5925 6419 50  0000 C CNN
+F 2 "kbd:PG1350" H 5925 6425 50  0001 C CNN
+F 3 "" H 5925 6425 50  0001 C CNN
+	1    5925 6225
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW5
 U 1 1 5E1598F1
-P 9400 8875
-F 0 "SW5" H 9400 9160 50  0000 C CNN
-F 1 "SW_Push" H 9400 9069 50  0000 C CNN
-F 2 "kbd:PG1350" H 9400 9075 50  0001 C CNN
-F 3 "" H 9400 9075 50  0001 C CNN
-	1    9400 8875
+P 6525 6225
+F 0 "SW5" H 6525 6510 50  0000 C CNN
+F 1 "SW_Push" H 6525 6419 50  0000 C CNN
+F 2 "kbd:PG1350" H 6525 6425 50  0001 C CNN
+F 3 "" H 6525 6425 50  0001 C CNN
+	1    6525 6225
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW6
 U 1 1 5E1598F8
-P 10000 8875
-F 0 "SW6" H 10000 9160 50  0000 C CNN
-F 1 "SW_Push" H 10000 9069 50  0000 C CNN
-F 2 "kbd:PG1350" H 10000 9075 50  0001 C CNN
-F 3 "" H 10000 9075 50  0001 C CNN
-	1    10000 8875
+P 7125 6225
+F 0 "SW6" H 7125 6510 50  0000 C CNN
+F 1 "SW_Push" H 7125 6419 50  0000 C CNN
+F 2 "kbd:PG1350" H 7125 6425 50  0001 C CNN
+F 3 "" H 7125 6425 50  0001 C CNN
+	1    7125 6225
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW7
 U 1 1 5E15EFCD
-P 8800 9575
-F 0 "SW7" H 8800 9860 50  0000 C CNN
-F 1 "SW_Push" H 8800 9769 50  0000 C CNN
-F 2 "kbd:PG1350" H 8800 9775 50  0001 C CNN
-F 3 "" H 8800 9775 50  0001 C CNN
-	1    8800 9575
+P 5925 6925
+F 0 "SW7" H 5925 7210 50  0000 C CNN
+F 1 "SW_Push" H 5925 7119 50  0000 C CNN
+F 2 "kbd:PG1350" H 5925 7125 50  0001 C CNN
+F 3 "" H 5925 7125 50  0001 C CNN
+	1    5925 6925
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW8
 U 1 1 5E15EFD4
-P 9400 9575
-F 0 "SW8" H 9400 9860 50  0000 C CNN
-F 1 "SW_Push" H 9400 9769 50  0000 C CNN
-F 2 "kbd:PG1350" H 9400 9775 50  0001 C CNN
-F 3 "" H 9400 9775 50  0001 C CNN
-	1    9400 9575
+P 6525 6925
+F 0 "SW8" H 6525 7210 50  0000 C CNN
+F 1 "SW_Push" H 6525 7119 50  0000 C CNN
+F 2 "kbd:PG1350" H 6525 7125 50  0001 C CNN
+F 3 "" H 6525 7125 50  0001 C CNN
+	1    6525 6925
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW9
 U 1 1 5E15EFDB
-P 10000 9575
-F 0 "SW9" H 10000 9860 50  0000 C CNN
-F 1 "SW_Push" H 10000 9769 50  0000 C CNN
-F 2 "kbd:PG1350" H 10000 9775 50  0001 C CNN
-F 3 "" H 10000 9775 50  0001 C CNN
-	1    10000 9575
+P 7125 6925
+F 0 "SW9" H 7125 7210 50  0000 C CNN
+F 1 "SW_Push" H 7125 7119 50  0000 C CNN
+F 2 "kbd:PG1350" H 7125 7125 50  0001 C CNN
+F 3 "" H 7125 7125 50  0001 C CNN
+	1    7125 6925
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -707,12 +707,12 @@ $EndComp
 $Comp
 L Device:LED_ARGB D2
 U 1 1 5E1756C4
-P 7825 8200
-F 0 "D2" H 7825 8697 50  0000 C CNN
-F 1 "LED_ARGB" H 7825 8606 50  0000 C CNN
-F 2 "SamacSys_Parts:LED_Kingbright_AAA3528ESGCT" H 7825 8150 50  0001 C CNN
-F 3 "~" H 7825 8150 50  0001 C CNN
-	1    7825 8200
+P 7825 8225
+F 0 "D2" H 7825 8722 50  0000 C CNN
+F 1 "LED_ARGB" H 7825 8631 50  0000 C CNN
+F 2 "SamacSys_Parts:LED_Kingbright_AAA3528ESGCT" H 7825 8175 50  0001 C CNN
+F 3 "~" H 7825 8175 50  0001 C CNN
+	1    7825 8225
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -751,12 +751,12 @@ $EndComp
 $Comp
 L Device:LED_ARGB D11
 U 1 1 5E17ADCE
-P 7825 9150
-F 0 "D11" H 7825 9647 50  0000 C CNN
-F 1 "LED_ARGB" H 7825 9556 50  0000 C CNN
-F 2 "SamacSys_Parts:LED_Kingbright_AAA3528ESGCT" H 7825 9100 50  0001 C CNN
-F 3 "~" H 7825 9100 50  0001 C CNN
-	1    7825 9150
+P 7825 9175
+F 0 "D11" H 7825 9672 50  0000 C CNN
+F 1 "LED_ARGB" H 7825 9581 50  0000 C CNN
+F 2 "SamacSys_Parts:LED_Kingbright_AAA3528ESGCT" H 7825 9125 50  0001 C CNN
+F 3 "~" H 7825 9125 50  0001 C CNN
+	1    7825 9175
 	1    0    0    -1  
 $EndComp
 NoConn ~ 6950 2450
@@ -800,161 +800,161 @@ NoConn ~ 6950 3250
 $Comp
 L Device:D D5
 U 1 1 5E43E35A
-P 9000 8325
-F 0 "D5" V 9046 8246 50  0000 R CNN
-F 1 "D" V 8955 8246 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 9000 8325 50  0001 C CNN
-F 3 "~" H 9000 8325 50  0001 C CNN
-	1    9000 8325
+P 6125 5675
+F 0 "D5" V 6171 5596 50  0000 R CNN
+F 1 "D" V 6080 5596 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 6125 5675 50  0001 C CNN
+F 3 "~" H 6125 5675 50  0001 C CNN
+	1    6125 5675
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D6
 U 1 1 5E45925A
-P 9600 8325
-F 0 "D6" V 9646 8246 50  0000 R CNN
-F 1 "D" V 9555 8246 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 9600 8325 50  0001 C CNN
-F 3 "~" H 9600 8325 50  0001 C CNN
-	1    9600 8325
+P 6725 5675
+F 0 "D6" V 6771 5596 50  0000 R CNN
+F 1 "D" V 6680 5596 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 6725 5675 50  0001 C CNN
+F 3 "~" H 6725 5675 50  0001 C CNN
+	1    6725 5675
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D7
 U 1 1 5E45E84B
-P 10200 8325
-F 0 "D7" V 10246 8246 50  0000 R CNN
-F 1 "D" V 10155 8246 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 10200 8325 50  0001 C CNN
-F 3 "~" H 10200 8325 50  0001 C CNN
-	1    10200 8325
+P 7325 5675
+F 0 "D7" V 7371 5596 50  0000 R CNN
+F 1 "D" V 7280 5596 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 7325 5675 50  0001 C CNN
+F 3 "~" H 7325 5675 50  0001 C CNN
+	1    7325 5675
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D8
 U 1 1 5E46950D
-P 9000 9025
-F 0 "D8" V 9046 8946 50  0000 R CNN
-F 1 "D" V 8955 8946 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 9000 9025 50  0001 C CNN
-F 3 "~" H 9000 9025 50  0001 C CNN
-	1    9000 9025
+P 6125 6375
+F 0 "D8" V 6171 6296 50  0000 R CNN
+F 1 "D" V 6080 6296 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 6125 6375 50  0001 C CNN
+F 3 "~" H 6125 6375 50  0001 C CNN
+	1    6125 6375
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D9
 U 1 1 5E469514
-P 9600 9025
-F 0 "D9" V 9646 8946 50  0000 R CNN
-F 1 "D" V 9555 8946 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 9600 9025 50  0001 C CNN
-F 3 "~" H 9600 9025 50  0001 C CNN
-	1    9600 9025
+P 6725 6375
+F 0 "D9" V 6771 6296 50  0000 R CNN
+F 1 "D" V 6680 6296 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 6725 6375 50  0001 C CNN
+F 3 "~" H 6725 6375 50  0001 C CNN
+	1    6725 6375
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D10
 U 1 1 5E46951B
-P 10200 9025
-F 0 "D10" V 10246 8946 50  0000 R CNN
-F 1 "D" V 10155 8946 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 10200 9025 50  0001 C CNN
-F 3 "~" H 10200 9025 50  0001 C CNN
-	1    10200 9025
+P 7325 6375
+F 0 "D10" V 7371 6296 50  0000 R CNN
+F 1 "D" V 7280 6296 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 7325 6375 50  0001 C CNN
+F 3 "~" H 7325 6375 50  0001 C CNN
+	1    7325 6375
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D15
 U 1 1 5E479849
-P 9000 9725
-F 0 "D15" V 9046 9646 50  0000 R CNN
-F 1 "D" V 8955 9646 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 9000 9725 50  0001 C CNN
-F 3 "~" H 9000 9725 50  0001 C CNN
-	1    9000 9725
+P 6125 7075
+F 0 "D15" V 6171 6996 50  0000 R CNN
+F 1 "D" V 6080 6996 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 6125 7075 50  0001 C CNN
+F 3 "~" H 6125 7075 50  0001 C CNN
+	1    6125 7075
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D16
 U 1 1 5E479850
-P 9600 9725
-F 0 "D16" V 9646 9646 50  0000 R CNN
-F 1 "D" V 9555 9646 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 9600 9725 50  0001 C CNN
-F 3 "~" H 9600 9725 50  0001 C CNN
-	1    9600 9725
+P 6725 7075
+F 0 "D16" V 6771 6996 50  0000 R CNN
+F 1 "D" V 6680 6996 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 6725 7075 50  0001 C CNN
+F 3 "~" H 6725 7075 50  0001 C CNN
+	1    6725 7075
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D17
 U 1 1 5E479857
-P 10200 9725
-F 0 "D17" V 10246 9646 50  0000 R CNN
-F 1 "D" V 10155 9646 50  0000 R CNN
-F 2 "Diodes_SMD:D_SOD-123" H 10200 9725 50  0001 C CNN
-F 3 "~" H 10200 9725 50  0001 C CNN
-	1    10200 9725
+P 7325 7075
+F 0 "D17" V 7371 6996 50  0000 R CNN
+F 1 "D" V 7280 6996 50  0000 R CNN
+F 2 "Diodes_SMD:D_SOD-123" H 7325 7075 50  0001 C CNN
+F 3 "~" H 7325 7075 50  0001 C CNN
+	1    7325 7075
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	8600 9575 8600 8875
-Connection ~ 8600 8175
+	5725 6925 5725 6225
+Connection ~ 5725 5525
 Wire Wire Line
-	8600 8175 8600 7775
-Connection ~ 8600 8875
+	5725 5525 5725 5125
+Connection ~ 5725 6225
 Wire Wire Line
-	8600 8875 8600 8175
+	5725 6225 5725 5525
 Wire Wire Line
-	9200 9575 9200 8875
-Connection ~ 9200 8175
+	6325 6925 6325 6225
+Connection ~ 6325 5525
 Wire Wire Line
-	9200 8175 9200 7775
-Connection ~ 9200 8875
+	6325 5525 6325 5125
+Connection ~ 6325 6225
 Wire Wire Line
-	9200 8875 9200 8175
+	6325 6225 6325 5525
 Wire Wire Line
-	9800 9575 9800 8875
-Connection ~ 9800 8175
+	6925 6925 6925 6225
+Connection ~ 6925 5525
 Wire Wire Line
-	9800 8175 9800 7775
-Connection ~ 9800 8875
+	6925 5525 6925 5125
+Connection ~ 6925 6225
 Wire Wire Line
-	9800 8875 9800 8175
+	6925 6225 6925 5525
 Wire Wire Line
-	9000 8475 9600 8475
-Connection ~ 9600 8475
+	6125 5825 6725 5825
+Connection ~ 6725 5825
 Wire Wire Line
-	9600 8475 10200 8475
-Connection ~ 10200 8475
+	6725 5825 7325 5825
+Connection ~ 7325 5825
 Wire Wire Line
-	10200 8475 10450 8475
+	7325 5825 7575 5825
 Wire Wire Line
-	9000 9875 9600 9875
-Connection ~ 9600 9875
+	6125 7225 6725 7225
+Connection ~ 6725 7225
 Wire Wire Line
-	9600 9875 10200 9875
-Connection ~ 10200 9875
+	6725 7225 7325 7225
+Connection ~ 7325 7225
 Wire Wire Line
-	10200 9875 10450 9875
+	7325 7225 7575 7225
 Wire Wire Line
-	9000 9175 9600 9175
-Connection ~ 9600 9175
+	6125 6525 6725 6525
+Connection ~ 6725 6525
 Wire Wire Line
-	9600 9175 10200 9175
-Connection ~ 10200 9175
+	6725 6525 7325 6525
+Connection ~ 7325 6525
 Wire Wire Line
-	10200 9175 10450 9175
-Text GLabel 8600 7775 0    50   Input ~ 0
+	7325 6525 7575 6525
+Text GLabel 5725 5125 0    50   Input ~ 0
 COL1
-Text GLabel 9200 7775 0    50   Input ~ 0
+Text GLabel 6325 5125 0    50   Input ~ 0
 COL2
-Text GLabel 9800 7775 0    50   Input ~ 0
+Text GLabel 6925 5125 0    50   Input ~ 0
 COL3
-Text GLabel 10450 8475 2    50   Input ~ 0
+Text GLabel 7575 5825 2    50   Input ~ 0
 ROW1
-Text GLabel 10450 9175 2    50   Input ~ 0
+Text GLabel 7575 6525 2    50   Input ~ 0
 ROW2
-Text GLabel 10450 9875 2    50   Input ~ 0
+Text GLabel 7575 7225 2    50   Input ~ 0
 ROW3
 $Comp
 L power:+5V #PWR01
@@ -1011,23 +1011,23 @@ F 3 "" H 8000 850 50  0001 C CNN
 	1    8000 850 
 	0    1    1    0   
 $EndComp
-Text GLabel 6525 5450 0    50   Input ~ 0
+Text GLabel 8650 2200 0    50   Input ~ 0
 RE1S
-Text GLabel 6525 6175 0    50   Input ~ 0
+Text GLabel 8650 2925 0    50   Input ~ 0
 RE2S
-Text GLabel 6525 6925 0    50   Input ~ 0
+Text GLabel 8650 3675 0    50   Input ~ 0
 RE3S
-Text GLabel 8025 5250 2    50   Input ~ 0
+Text GLabel 10150 2000 2    50   Input ~ 0
 RE1A
-Text GLabel 8025 5350 2    50   Input ~ 0
+Text GLabel 10150 2100 2    50   Input ~ 0
 RE1B
-Text GLabel 8025 6725 2    50   Input ~ 0
+Text GLabel 10150 3475 2    50   Input ~ 0
 RE3A
-Text GLabel 8025 5975 2    50   Input ~ 0
+Text GLabel 10150 2725 2    50   Input ~ 0
 RE2A
-Text GLabel 8025 6075 2    50   Input ~ 0
+Text GLabel 10150 2825 2    50   Input ~ 0
 RE2B
-Text GLabel 8025 6825 2    50   Input ~ 0
+Text GLabel 10150 3575 2    50   Input ~ 0
 RE3B
 $Comp
 L Device:R_Small R10
@@ -1091,115 +1091,115 @@ RESET
 $Comp
 L PEL12T-4226F-S1024:PEL12T-4226F-S1024 S1
 U 1 1 5DD0C5BF
-P 6525 5250
-F 0 "S1" H 7275 5515 50  0000 C CNN
-F 1 "PEL12T-4226F-S1024" H 7275 5424 50  0000 C CNN
-F 2 "SamacSys_Parts:PEL12T4226FS1024" H 7875 5350 50  0001 L CNN
-F 3 "https://componentsearchengine.com/Datasheets/1/PEL12T-4226F-S1024.pdf" H 7875 5250 50  0001 L CNN
-F 4 "Optical Encoder Rotary Incremental Flat 0.69oz.in Straight Digital Square Wave Through Hole PC Pin 6CPR" H 7875 5150 50  0001 L CNN "Description"
-F 5 "26.5" H 7875 5050 50  0001 L CNN "Height"
-F 6 "Bourns" H 7875 4950 50  0001 L CNN "Manufacturer_Name"
-F 7 "PEL12T-4226F-S1024" H 7875 4850 50  0001 L CNN "Manufacturer_Part_Number"
-F 8 "652-PEL12T4226FS1024" H 7875 4750 50  0001 L CNN "Mouser Part Number"
-F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-PEL12T4226FS1024" H 7875 4650 50  0001 L CNN "Mouser Price/Stock"
-F 10 "" H 7875 4550 50  0001 L CNN "RS Part Number"
-F 11 "" H 7875 4450 50  0001 L CNN "RS Price/Stock"
-	1    6525 5250
+P 8650 2000
+F 0 "S1" H 9400 2265 50  0000 C CNN
+F 1 "PEL12T-4226F-S1024" H 9400 2174 50  0000 C CNN
+F 2 "SamacSys_Parts:PEL12T4226FS1024" H 10000 2100 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/PEL12T-4226F-S1024.pdf" H 10000 2000 50  0001 L CNN
+F 4 "Optical Encoder Rotary Incremental Flat 0.69oz.in Straight Digital Square Wave Through Hole PC Pin 6CPR" H 10000 1900 50  0001 L CNN "Description"
+F 5 "26.5" H 10000 1800 50  0001 L CNN "Height"
+F 6 "Bourns" H 10000 1700 50  0001 L CNN "Manufacturer_Name"
+F 7 "PEL12T-4226F-S1024" H 10000 1600 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "652-PEL12T4226FS1024" H 10000 1500 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-PEL12T4226FS1024" H 10000 1400 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 10000 1300 50  0001 L CNN "RS Part Number"
+F 11 "" H 10000 1200 50  0001 L CNN "RS Price/Stock"
+	1    8650 2000
 	1    0    0    -1  
 $EndComp
 $Comp
 L PEL12T-4226F-S1024:PEL12T-4226F-S1024 S2
 U 1 1 5DD0CA00
-P 6525 5975
-F 0 "S2" H 7275 6240 50  0000 C CNN
-F 1 "PEL12T-4226F-S1024" H 7275 6149 50  0000 C CNN
-F 2 "SamacSys_Parts:PEL12T4226FS1024" H 7875 6075 50  0001 L CNN
-F 3 "https://componentsearchengine.com/Datasheets/1/PEL12T-4226F-S1024.pdf" H 7875 5975 50  0001 L CNN
-F 4 "Optical Encoder Rotary Incremental Flat 0.69oz.in Straight Digital Square Wave Through Hole PC Pin 6CPR" H 7875 5875 50  0001 L CNN "Description"
-F 5 "26.5" H 7875 5775 50  0001 L CNN "Height"
-F 6 "Bourns" H 7875 5675 50  0001 L CNN "Manufacturer_Name"
-F 7 "PEL12T-4226F-S1024" H 7875 5575 50  0001 L CNN "Manufacturer_Part_Number"
-F 8 "652-PEL12T4226FS1024" H 7875 5475 50  0001 L CNN "Mouser Part Number"
-F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-PEL12T4226FS1024" H 7875 5375 50  0001 L CNN "Mouser Price/Stock"
-F 10 "" H 7875 5275 50  0001 L CNN "RS Part Number"
-F 11 "" H 7875 5175 50  0001 L CNN "RS Price/Stock"
-	1    6525 5975
+P 8650 2725
+F 0 "S2" H 9400 2990 50  0000 C CNN
+F 1 "PEL12T-4226F-S1024" H 9400 2899 50  0000 C CNN
+F 2 "SamacSys_Parts:PEL12T4226FS1024" H 10000 2825 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/PEL12T-4226F-S1024.pdf" H 10000 2725 50  0001 L CNN
+F 4 "Optical Encoder Rotary Incremental Flat 0.69oz.in Straight Digital Square Wave Through Hole PC Pin 6CPR" H 10000 2625 50  0001 L CNN "Description"
+F 5 "26.5" H 10000 2525 50  0001 L CNN "Height"
+F 6 "Bourns" H 10000 2425 50  0001 L CNN "Manufacturer_Name"
+F 7 "PEL12T-4226F-S1024" H 10000 2325 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "652-PEL12T4226FS1024" H 10000 2225 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-PEL12T4226FS1024" H 10000 2125 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 10000 2025 50  0001 L CNN "RS Part Number"
+F 11 "" H 10000 1925 50  0001 L CNN "RS Price/Stock"
+	1    8650 2725
 	1    0    0    -1  
 $EndComp
 $Comp
 L PEL12T-4226F-S1024:PEL12T-4226F-S1024 S3
 U 1 1 5DD16C4C
-P 6525 6725
-F 0 "S3" H 7275 6990 50  0000 C CNN
-F 1 "PEL12T-4226F-S1024" H 7275 6899 50  0000 C CNN
-F 2 "SamacSys_Parts:PEL12T4226FS1024" H 7875 6825 50  0001 L CNN
-F 3 "https://componentsearchengine.com/Datasheets/1/PEL12T-4226F-S1024.pdf" H 7875 6725 50  0001 L CNN
-F 4 "Optical Encoder Rotary Incremental Flat 0.69oz.in Straight Digital Square Wave Through Hole PC Pin 6CPR" H 7875 6625 50  0001 L CNN "Description"
-F 5 "26.5" H 7875 6525 50  0001 L CNN "Height"
-F 6 "Bourns" H 7875 6425 50  0001 L CNN "Manufacturer_Name"
-F 7 "PEL12T-4226F-S1024" H 7875 6325 50  0001 L CNN "Manufacturer_Part_Number"
-F 8 "652-PEL12T4226FS1024" H 7875 6225 50  0001 L CNN "Mouser Part Number"
-F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-PEL12T4226FS1024" H 7875 6125 50  0001 L CNN "Mouser Price/Stock"
-F 10 "" H 7875 6025 50  0001 L CNN "RS Part Number"
-F 11 "" H 7875 5925 50  0001 L CNN "RS Price/Stock"
-	1    6525 6725
+P 8650 3475
+F 0 "S3" H 9400 3740 50  0000 C CNN
+F 1 "PEL12T-4226F-S1024" H 9400 3649 50  0000 C CNN
+F 2 "SamacSys_Parts:PEL12T4226FS1024" H 10000 3575 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/PEL12T-4226F-S1024.pdf" H 10000 3475 50  0001 L CNN
+F 4 "Optical Encoder Rotary Incremental Flat 0.69oz.in Straight Digital Square Wave Through Hole PC Pin 6CPR" H 10000 3375 50  0001 L CNN "Description"
+F 5 "26.5" H 10000 3275 50  0001 L CNN "Height"
+F 6 "Bourns" H 10000 3175 50  0001 L CNN "Manufacturer_Name"
+F 7 "PEL12T-4226F-S1024" H 10000 3075 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "652-PEL12T4226FS1024" H 10000 2975 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-PEL12T4226FS1024" H 10000 2875 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 10000 2775 50  0001 L CNN "RS Part Number"
+F 11 "" H 10000 2675 50  0001 L CNN "RS Price/Stock"
+	1    8650 3475
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8025 5450 8400 5450
+	10150 2200 10525 2200
 Wire Wire Line
-	8400 5450 8400 5550
+	10525 2200 10525 2300
 Wire Wire Line
-	8025 6925 8400 6925
-Connection ~ 8400 6925
+	10150 3675 10525 3675
+Connection ~ 10525 3675
 Wire Wire Line
-	8400 6925 8400 7025
+	10525 3675 10525 3775
 Wire Wire Line
-	8025 6175 8400 6175
-Connection ~ 8400 6175
+	10150 2925 10525 2925
+Connection ~ 10525 2925
 Wire Wire Line
-	8400 6175 8400 6275
+	10525 2925 10525 3025
 $Comp
 L power:GND #PWR022
 U 1 1 5DE8E94E
-P 8400 7225
-F 0 "#PWR022" H 8400 6975 50  0001 C CNN
-F 1 "GND" H 8400 7075 50  0000 C CNN
-F 2 "" H 8400 7225 50  0001 C CNN
-F 3 "" H 8400 7225 50  0001 C CNN
-	1    8400 7225
+P 10525 3975
+F 0 "#PWR022" H 10525 3725 50  0001 C CNN
+F 1 "GND" H 10525 3825 50  0000 C CNN
+F 2 "" H 10525 3975 50  0001 C CNN
+F 3 "" H 10525 3975 50  0001 C CNN
+	1    10525 3975
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8025 7125 8400 7125
-Connection ~ 8400 7125
+	10150 3875 10525 3875
+Connection ~ 10525 3875
 Wire Wire Line
-	8400 7125 8400 7225
+	10525 3875 10525 3975
 Wire Wire Line
-	8025 7025 8400 7025
-Connection ~ 8400 7025
+	10150 3775 10525 3775
+Connection ~ 10525 3775
 Wire Wire Line
-	8400 7025 8400 7125
+	10525 3775 10525 3875
 Wire Wire Line
-	8025 6375 8400 6375
-Connection ~ 8400 6375
+	10150 3125 10525 3125
+Connection ~ 10525 3125
 Wire Wire Line
-	8400 6375 8400 6925
+	10525 3125 10525 3675
 Wire Wire Line
-	8025 6275 8400 6275
-Connection ~ 8400 6275
+	10150 3025 10525 3025
+Connection ~ 10525 3025
 Wire Wire Line
-	8400 6275 8400 6375
+	10525 3025 10525 3125
 Wire Wire Line
-	8025 5650 8400 5650
-Connection ~ 8400 5650
+	10150 2400 10525 2400
+Connection ~ 10525 2400
 Wire Wire Line
-	8400 5650 8400 6175
+	10525 2400 10525 2925
 Wire Wire Line
-	8025 5550 8400 5550
-Connection ~ 8400 5550
+	10150 2300 10525 2300
+Connection ~ 10525 2300
 Wire Wire Line
-	8400 5550 8400 5650
+	10525 2300 10525 2400
 NoConn ~ 1925 9525
 NoConn ~ 1400 2125
 NoConn ~ 1400 2725
@@ -1410,13 +1410,13 @@ Wire Wire Line
 	2050 5825 2050 5675
 Wire Wire Line
 	2275 5675 2050 5675
-Text GLabel 6525 5250 0    50   Input ~ 0
+Text GLabel 8650 2000 0    50   Input ~ 0
 LEDA2
-Text GLabel 6525 5350 0    50   Input ~ 0
+Text GLabel 8650 2100 0    50   Input ~ 0
 LEDA3
-Text GLabel 6525 5550 0    50   Input ~ 0
+Text GLabel 8650 2300 0    50   Input ~ 0
 LEDA4
-Text GLabel 6525 5650 0    50   Input ~ 0
+Text GLabel 8650 2400 0    50   Input ~ 0
 LEDA1
 Text GLabel 2275 6075 0    50   Input ~ 0
 LEDB1
@@ -1430,21 +1430,21 @@ Text GLabel 2275 6475 0    50   Input ~ 0
 LEDB5
 Text GLabel 2275 6575 0    50   Input ~ 0
 LEDB6
-Text GLabel 6525 6375 0    50   Input ~ 0
+Text GLabel 8650 3125 0    50   Input ~ 0
 LEDA1
-Text GLabel 6525 7125 0    50   Input ~ 0
+Text GLabel 8650 3875 0    50   Input ~ 0
 LEDB1
-Text GLabel 6525 5975 0    50   Input ~ 0
+Text GLabel 8650 2725 0    50   Input ~ 0
 LEDA5
-Text GLabel 6525 6075 0    50   Input ~ 0
+Text GLabel 8650 2825 0    50   Input ~ 0
 LEDA6
-Text GLabel 6525 6275 0    50   Input ~ 0
+Text GLabel 8650 3025 0    50   Input ~ 0
 LEDA7
-Text GLabel 6525 6725 0    50   Input ~ 0
+Text GLabel 8650 3475 0    50   Input ~ 0
 LEDB2
-Text GLabel 6525 6825 0    50   Input ~ 0
+Text GLabel 8650 3575 0    50   Input ~ 0
 LEDB3
-Text GLabel 6525 7025 0    50   Input ~ 0
+Text GLabel 8650 3775 0    50   Input ~ 0
 LEDB4
 $Comp
 L Device:LED_ARGB D12
@@ -1471,19 +1471,19 @@ $EndComp
 $Comp
 L Device:LED_ARGB D18
 U 1 1 5E1805D3
-P 7825 10100
-F 0 "D18" H 7825 10597 50  0000 C CNN
-F 1 "LED_ARGB" H 7825 10506 50  0000 C CNN
-F 2 "SamacSys_Parts:LED_Kingbright_AAA3528ESGCT" H 7825 10050 50  0001 C CNN
-F 3 "~" H 7825 10050 50  0001 C CNN
-	1    7825 10100
+P 7825 10125
+F 0 "D18" H 7825 10622 50  0000 C CNN
+F 1 "LED_ARGB" H 7825 10531 50  0000 C CNN
+F 2 "SamacSys_Parts:LED_Kingbright_AAA3528ESGCT" H 7825 10075 50  0001 C CNN
+F 3 "~" H 7825 10075 50  0001 C CNN
+	1    7825 10125
 	1    0    0    -1  
 $EndComp
-Text Notes 9125 5325 2    50   ~ 0
+Text Notes 11250 2075 2    50   ~ 0
 C1-1,C1-2,C1-3
-Text Notes 9125 6075 2    50   ~ 0
+Text Notes 11250 2825 2    50   ~ 0
 C1-4,C1-5,C1-6
-Text Notes 9250 6800 2    50   ~ 0
+Text Notes 11375 3550 2    50   ~ 0
 C1-9,C1-10,C1-11
 Text GLabel 5775 8225 2    50   Input ~ 0
 LEDA1
@@ -1517,21 +1517,21 @@ Text GLabel 6550 8225 0    50   Input ~ 0
 LEDA5
 Text GLabel 6550 8425 0    50   Input ~ 0
 LEDA6
-Text GLabel 8025 8200 2    50   Input ~ 0
+Text GLabel 8025 8225 2    50   Input ~ 0
 LEDB1
-Text GLabel 8025 9150 2    50   Input ~ 0
+Text GLabel 8025 9175 2    50   Input ~ 0
 LEDB1
-Text GLabel 7625 8000 0    50   Input ~ 0
+Text GLabel 7625 8025 0    50   Input ~ 0
 LEDB4
-Text GLabel 7625 8200 0    50   Input ~ 0
+Text GLabel 7625 8225 0    50   Input ~ 0
 LEDB5
-Text GLabel 7625 8400 0    50   Input ~ 0
+Text GLabel 7625 8425 0    50   Input ~ 0
 LEDB6
-Text GLabel 7625 8950 0    50   Input ~ 0
+Text GLabel 7625 8975 0    50   Input ~ 0
 LEDB4
-Text GLabel 7625 9150 0    50   Input ~ 0
+Text GLabel 7625 9175 0    50   Input ~ 0
 LEDB5
-Text GLabel 7625 9350 0    50   Input ~ 0
+Text GLabel 7625 9375 0    50   Input ~ 0
 LEDB6
 Text Notes 5300 7900 2    50   ~ 0
 C4-1,C5-1,C6-1
@@ -1541,15 +1541,15 @@ Text Notes 6550 7900 2    50   ~ 0
 C4-2,C5-2,C6-2
 Text Notes 6550 8750 2    50   ~ 0
 C7-2,C8-2,C9-2
-Text Notes 7650 7900 2    50   ~ 0
+Text Notes 7650 7925 2    50   ~ 0
 C4-9,C5-10,C6-11
-Text Notes 7625 8750 2    50   ~ 0
+Text Notes 7625 8775 2    50   ~ 0
 C7-9,C8-10,C9-11
 Text GLabel 5775 10125 2    50   Input ~ 0
 LEDA7
 Text GLabel 6950 10125 2    50   Input ~ 0
 LEDA8
-Text GLabel 8025 10100 2    50   Input ~ 0
+Text GLabel 8025 10125 2    50   Input ~ 0
 LEDA9
 Text GLabel 5375 9925 0    50   Input ~ 0
 LEDA2
@@ -1563,17 +1563,17 @@ Text GLabel 6550 10125 0    50   Input ~ 0
 LEDA3
 Text GLabel 6550 10325 0    50   Input ~ 0
 LEDA4
-Text GLabel 7625 9900 0    50   Input ~ 0
+Text GLabel 7625 9925 0    50   Input ~ 0
 LEDA2
-Text GLabel 7625 10100 0    50   Input ~ 0
+Text GLabel 7625 10125 0    50   Input ~ 0
 LEDA3
-Text GLabel 7625 10300 0    50   Input ~ 0
+Text GLabel 7625 10325 0    50   Input ~ 0
 LEDA4
 Text Notes 5300 9750 2    50   ~ 0
 C2-6,C3-6,C4-6
 Text Notes 6550 9750 2    50   ~ 0
 C2-7,C3-7,C4-7
-Text Notes 7625 9750 2    50   ~ 0
+Text Notes 7625 9775 2    50   ~ 0
 C2-8,C3-8,C4-8
 $Comp
 L power:GND #PWR023

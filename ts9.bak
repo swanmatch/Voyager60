@@ -470,7 +470,7 @@ U 1 1 5D93C3AA
 P 6350 2550
 F 0 "U1" H 6350 664 50  0000 C CNN
 F 1 "ATmega32U4-MU" H 6350 573 50  0000 C CNN
-F 2 "locallib:QFN-44-1EP_7x7mm_Pitch0.5mm" H 6350 2550 50  0001 C CIN
+F 2 "Housings_QFP:TQFP-44-1EP_10x10mm_Pitch0.8mm" H 6350 2550 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 6350 2550 50  0001 C CNN
 	1    6350 2550
 	1    0    0    -1  
